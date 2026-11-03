@@ -1,1 +1,27 @@
-{"races":[{"date":"2026-10-25","file":"replays/yellawood500-replay-compact.json","laps":190,"race":"YellaWood 500","series":"Cup","size_kb":209,"track":"Talladega Superspeedway","winner":"Kyle Larson","winner_car":5}],"version":1}
+{
+  "races": [
+    {
+      "date": "2026-10-25",
+      "file": "replays/yellawood500-replay-compact.json",
+      "laps": 190,
+      "race": "YellaWood 500",
+      "series": "Cup",
+      "size_kb": 209,
+      "track": "Talladega Superspeedway",
+      "winner": "Kyle Larson",
+      "winner_car": 5
+    },
+    {
+      "date": "2026-11-01",
+      "file": "replays/martinsville-xfinity500-replay-compact.json",
+      "laps": 500,
+      "race": "Xfinity 500",
+      "series": "Cup",
+      "size_kb": 516,
+      "track": "Martinsville Speedway",
+      "winner": "William Byron",
+      "winner_car": 24
+    }
+  ],
+  "version": 1
+}
