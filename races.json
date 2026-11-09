@@ -407,6 +407,18 @@
       "winner": "William Byron",
       "winner_car": 24,
       "category": "Round of 8"
+    },
+    {
+      "date": "2026-11-08",
+      "file": "replays/nascar-cup-series-championship-race-replay-compact.json",
+      "laps": 268,
+      "race": "NASCAR Cup Series Championship Race",
+      "series": "Cup",
+      "size_kb": 298,
+      "track": "Homestead-Miami Speedway",
+      "winner": "Blaney",
+      "winner_car": 12,
+      "category": "Championship"
     }
   ],
   "version": 1
